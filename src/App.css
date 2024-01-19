@@ -20,8 +20,8 @@ button {
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
-  background-color: #2222aa;
-  color: white;
+  background-color: #229aaadb;
+  color: rgb(0, 0, 0);
   cursor: pointer;
 }
 
